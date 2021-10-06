@@ -2,7 +2,7 @@
 
 # Olá! Eu sou Rafael Yutaka Yasuda
 
-- 💻 Sou um desenvolvedor Front-end em busca de um estágio / junior.
+- 💻 Sou um desenvolvedor Front-end.
 - 👨‍🎓 Estou cursando Análise e Desenvolvimento de Sistemas.
 - 📅 Nascido em Fevereiro de 2000.
 - 🏡 Moro em Guarulhos - São Paulo.
