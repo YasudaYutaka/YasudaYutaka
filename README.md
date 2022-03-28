@@ -2,7 +2,7 @@
 
 # Olá! Eu sou Rafael Yutaka Yasuda
 
-- 💻 Sou um desenvolvedor Front-end.
+- 💻 Sou um desenvolvedor Mobile.
 - 👨‍🎓 Estou cursando Análise e Desenvolvimento de Sistemas.
 - 📅 Nascido em Fevereiro de 2000.
 - 🏡 Moro em Guarulhos - São Paulo.
@@ -11,6 +11,8 @@
 
 <div style="display: inline-block"></br>
   <h2>📘 Tenho conhecimentos em:</h2>
+  <img align="center" alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
+  <img align="center" alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
   <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
@@ -27,10 +29,8 @@
 
 <div style="display: inline-block">
   <h2>:notebook_with_decorative_cover: Estou estudando:</h2>  
-  <img align="center" alt="React JS" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img align="center" alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-  <img align="center" alt="Node JS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
-  <img align="center" alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
+  <img align="center" alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
+  <img align="center" alt="Kotlin" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
  <div>
 
 </br>
