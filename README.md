@@ -1,11 +1,11 @@
 <img src="./assets/banner.gif" alt="banner">
 
-# Olá! Eu sou Rafael Yutaka Yasuda
+# Hello! I'm Rafael Yutaka Yasuda
 
-- 💻 Sou um desenvolvedor Backend.
-- 👨‍🎓 Estou cursando Análise e Desenvolvimento de Sistemas.
-- 📅 Nascido em Fevereiro de 2000.
-- 🏡 Moro em Guarulhos - São Paulo.
+- 💻 Backend developer.
+- 👨‍🎓 Technical degree in System Development.
+- 📅 Born in February 2000.
+- 🏡 Currently living in Guarulhos, Brazil.
 
 ##
 
