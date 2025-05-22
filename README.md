@@ -5,7 +5,7 @@
 - 💻 Backend developer.
 - 👨‍🎓 Technical degree in System Development.
 - 📅 Born in February 2000.
-- 🏡 Currently living in Guarulhos, Brazil.
+- 🏡 Currently living in São Paulo, Brazil.
 
 ##
 
